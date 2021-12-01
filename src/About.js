@@ -14,24 +14,17 @@ function About() {
           <div className="col__2">
             <img src={aboutImg} alt="" className="about__img" />
           </div>
-          <div className="col__2">
+          <div className="col__2 about__p_top">
             <h1 className="about__heading">About Me</h1>
             <div className="about__meta">
               <p className="about__text p__color">
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority have suffered in some form, by injected humour,
-                or randomised words which dont look even slightly believable. If
-                you are going to use a passage of Lorem Ipsum,
+                Hello! My name is Syed Mahadi Hasan Opu. a junior Softwar Engineer specializing in building React.js WebApp. I enjoy creating things that live on the internet. My interest in web development started back in 2021, I use Javascript and React.js to create high-end interactive experiences and products.Certified by Programming Hero and Sololearn
               </p>
               <p className="about__text p__color">
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority have suffered in some form, by injected humour,
-                or randomised words which dont look even slightly believable. If
-                you are going to use a passage of Lorem Ipsum,
+                  Skilled in Html5,Css3,Bootstrap,Tailwind,Material UI, JavaScript, ES6, React JS, React Router, Firebase. Express, Mongodb, Node js, Heroku I have some experience efficiently coding websites and applications using modern HTML, CSS, JavaScript, and react.
               </p>
               <p className="about__text p__color">
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority have suffered in some form, by injected humour,
+                Also using other modern technologies easy-to-use, user-friendly websites and applications are a passion of mine and I am assured I might be a wonderful addition to your organization. additionally, to my content, I actively search out new technologies and keep up-to-date on business trends and advancements. I’ve attached a copy of my resume detailing my experience, at the side of links to websites and applications I’ve had the honor of acting on.
               </p>
               <div className="about__button d__flex align__items__center">
                 <a href="https://drive.google.com/file/d/1LER7gs03Cl-3v13BeQiGC5dTVbd31vSa/view?usp=sharing">

@@ -31,9 +31,7 @@ function Home() {
               <a href="#Portfolio">
                 <li className="nav__items mx__15">Portfolio</li>
               </a>
-              <a href="#Blog">
-                <li className="nav__items mx__15">Blog</li>
-              </a>
+             
               <a href="#Contact">
                 <li className="nav__items mx__15">Contact</li>
               </a>
